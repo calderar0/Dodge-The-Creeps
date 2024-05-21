@@ -10,7 +10,7 @@ func _ready():
 	screen_size = get_viewport_rect().size
 
 
-# Called every frame. 'delta' is the elapsed time since the previous frame.
+# Called every frame.
 func _process(delta):
 	var velocity = Vector2.ZERO # player's movement vector.
 	if Input.is_action_pressed("move_right"):
