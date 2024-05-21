@@ -39,7 +39,7 @@ Durante o desenvolvimento deste projeto, aprendi:
 
 Images are from "Abstract Platformer". Created in 2016 by kenney.nl, [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). Source: [https://www.kenney.nl/assets/abstract-platformer](https://www.kenney.nl/assets/abstract-platformer)
 
-Font is "Xolonium". Copyright © 2011-2016 Severin Meyer sev.ch@web.de, with Reserved Font Name Xolonium, SIL open font license version 1.1. Details are in fonts/LICENSE.txt.
+Font is "Xolonium". Copyright © 2011-2016 Severin Meyer sev.ch@web.de, with Reserved Font Name Xolonium, SIL open font license version 1.1. Details are in **fonts/LICENSE.txt**.
 
 
 ## Contato
